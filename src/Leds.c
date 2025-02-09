@@ -1,5 +1,3 @@
-
-
 #include <Leds.h>
 
 // Converte uma cor RGB para um formato de 32 bits para a matriz de LEDs
